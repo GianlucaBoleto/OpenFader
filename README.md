@@ -26,7 +26,7 @@ The GUI is composed by two differente step:
 
 2. The program starts automatically the GUI, designed as follow:
 
-![source](./images/Gui.png)
+![Gui](./images/Gui.png)
 
 ## Folder Structure and Usage
 
