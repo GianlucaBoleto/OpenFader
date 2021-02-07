@@ -40,7 +40,7 @@ To test it, you can simply download this folder, import all required packages an
 
 ## Requirements
 
-To run the OpenFader library the following python packages are required:
+To run the OpenFader library, a Python 64bit version > 3.5.0 is required. Moreover, the following python packages are required:
 - **tkinter**
 - **PIL**
 - **cv2** (opencv)
